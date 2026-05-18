@@ -20,7 +20,7 @@ Currently working with **Vue 3**, **Astro**, **Tailwind CSS**, and **Supabase** 
 
 ## 🔨 Currently Building
  
- **[Kawaumi](https://github.com/TheRokku/kawaumi)** 
+ **[Kawaumi](https://github.com/TheRokku/manga-app)** 
     — A premium anime & manga discovery app. Manga section is fully functional, anime section in progress.
 ___
 <img width="1920" height="1080" title="My beautiful baby KAWAUMI" alt="image" src="https://github.com/user-attachments/assets/de436d4b-e789-4c5e-9418-fcc9757c7be0" />
@@ -29,7 +29,7 @@ ___
 
 ## Projects
 
-**[Kawaumi](https://github.com/TheRokku/kawaumi)** 
+**[Kawaumi](https://github.com/TheRokku/manga-app)** 
     — Anime & manga discovery app  
     A premium-feeling alternative to MAL and AniList. Built with Vue 3, Pinia, and the AniList GraphQL API. Features rich filtering, user auth, and a favorites system backed by Supabase.
 ___
