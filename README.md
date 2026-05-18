@@ -22,7 +22,7 @@ Currently working with **Vue 3**, **Astro**, **Tailwind CSS**, and **Supabase** 
  
  **[Kawaumi](https://github.com/TheRokku/kawaumi)** 
     — A premium anime & manga discovery app. Manga section is fully functional, anime section in progress.
-
+___
 <img width="1920" height="1080" title="My beautiful baby KAWAUMI" alt="image" src="https://github.com/user-attachments/assets/de436d4b-e789-4c5e-9418-fcc9757c7be0" />
 
 ---
@@ -32,14 +32,15 @@ Currently working with **Vue 3**, **Astro**, **Tailwind CSS**, and **Supabase** 
 **[Kawaumi](https://github.com/TheRokku/kawaumi)** 
     — Anime & manga discovery app  
     A premium-feeling alternative to MAL and AniList. Built with Vue 3, Pinia, and the AniList GraphQL API. Features rich filtering, user auth, and a favorites system backed by Supabase.
-
+___
 <img width="1920" height="968" alt="image" src="https://github.com/user-attachments/assets/2861e6e1-a938-4e2c-be70-e141aad66db5" />
 
+---
 
 **[Mike Barrios](https://github.com/TheRokku/mike-barrios)** 
     — Client site · [mikebarrios.com](https://mikebarrios.com)  
     Portfolio and landing site for an international speaker and executive coach. Built with Vue 3 and Vite, deployed on Vercel.
-
+___
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/492cf868-5e66-445b-ad89-f725f0c160de" />
 
 ---
