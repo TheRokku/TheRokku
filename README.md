@@ -15,7 +15,7 @@ Currently working with **Vue 3**, **Astro**, **Tailwind CSS**, and **Supabase** 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38BDF8?logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-
+![Vercel](https://img.shields.io/badge/deployed-Vercel-black?logo=vercel)
 ---
 
 ## 🔨 Currently Building
@@ -85,6 +85,7 @@ Portafolio y landing page para un conferencista internacional y coach ejecutivo.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38BDF8?logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/deployed-Vercel-black?logo=vercel)
 
 ---
 
