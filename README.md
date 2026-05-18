@@ -62,13 +62,13 @@ Trabajo principalmente con **Vue 3**, **Astro**, **Tailwind CSS** y **Supabase**
 
 ## 🔨 Actualmente construyendo
 
-**[Kawaumi](https://github.com/TheRokku/kawaumi)** — Una app premium para descubrir anime y manga. La sección de manga está completamente funcional, la sección de anime está en desarrollo.
+**[Kawaumi](https://github.com/TheRokku/manga-app)** — Una app premium para descubrir anime y manga. La sección de manga está completamente funcional, la sección de anime está en desarrollo.
 
 ---
 
 ## Proyectos
 
-**[Kawaumi](https://github.com/TheRokku/kawaumi)** — App de descubrimiento de anime y manga  
+**[Kawaumi](https://github.com/TheRokku/manga-app)** — App de descubrimiento de anime y manga  
 Una alternativa con mejor diseño a MAL y AniList. Construida con Vue 3, Pinia y la API GraphQL de AniList. Incluye filtros avanzados, autenticación de usuarios y sistema de favoritos respaldado por Supabase.
 
 **[Mike Barrios](https://github.com/TheRokku/mike-barrios)** — Sitio de cliente · [mikebarrios.com](https://mikebarrios.com)  
